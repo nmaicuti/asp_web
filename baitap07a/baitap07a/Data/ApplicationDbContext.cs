@@ -1,5 +1,4 @@
 ﻿using baitap07a.Models;
-using baitap07a.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
