@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\projectA\\ProjectA\\ProjectA.csproj": {}
+    "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\ProjectA\\ProjectA\\ProjectA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\projectA\\ProjectA\\ProjectA.csproj": {
+    "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\ProjectA\\ProjectA\\ProjectA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\projectA\\ProjectA\\ProjectA.csproj",
+        "projectUniqueName": "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\ProjectA\\ProjectA\\ProjectA.csproj",
         "projectName": "ProjectA",
-        "projectPath": "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\projectA\\ProjectA\\ProjectA.csproj",
+        "projectPath": "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\ProjectA\\ProjectA\\ProjectA.csproj",
         "packagesPath": "C:\\Users\\MTBH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\projectA\\ProjectA\\obj\\",
+        "outputPath": "C:\\Users\\MTBH\\Desktop\\laptrinhweb\\asp_web\\ProjectA\\ProjectA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MTBH\\AppData\\Roaming\\NuGet\\NuGet.Config",
